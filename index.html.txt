@@ -12,6 +12,7 @@ d<html>
 what the..
 	<li>push.yj</li>
 	<li> pull</li>
+	<li>conflict.leezche</li>
 
 li collide
 원격저장소
