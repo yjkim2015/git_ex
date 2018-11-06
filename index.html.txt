@@ -14,6 +14,7 @@ what the..
 li collide
 원격저장소
 push
+pull
     </body>
 </html>
 
