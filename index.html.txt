@@ -11,6 +11,7 @@ d<html>
 	렬리렬리?
 what the..
 	<li>push.yj</li>
+	<li> pull</li>
 
 li collide
 원격저장소
